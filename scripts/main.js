@@ -1,1 +1,1 @@
-this.router=function(e){Http.get("https://raw.githubusercontent.com/1ue999/cmdBundles/main/"+e+".js",(res)=>{eval(res.getResultAsString());})};
+this.router=function(routerrouterrouter){Http.get("https://raw.githubusercontent.com/1ue999/cmdBundles/main/"+routerrouterrouter+".js",(res)=>{eval(res.getResultAsString());})};
