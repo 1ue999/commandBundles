@@ -2,7 +2,7 @@ name: "cmdBundles"
 displayName: "cmdBundles"
 author: "[pink]1[magenta]ue[purple]999"
 description: "hjehjejeje"
-version: "1.0"
+version: "1.1"
 minGameVersion: "146"
 dependencies: [ ]
 hidden: true
